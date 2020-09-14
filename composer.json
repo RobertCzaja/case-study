@@ -1,0 +1,13 @@
+{
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Lpp\\": "src/Lpp/",
+      "Lpp\\Test\\": "tests/Lpp/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.1"
+  }
+}
